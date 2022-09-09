@@ -5,7 +5,7 @@
 - 👯 me’m looking to collaborate on Stack and Flutter 
 - 🤔 me’m looking for halp wif Flutter Community 
 - 💬 Ask me about Flutter and Dart 
-- 📫 Reach me using instagram day__code
+- 📫 Reach me using instagram ariba.dev
 - 😄 Pronouns: she 
 - ⚡ Fun fact:  Friendly in nature 
 
