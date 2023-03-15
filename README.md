@@ -1,4 +1,25 @@
 
+'m a Software Engineer from PAKISTAN 
+➮ In addition to that, I use Provider, or BLoC package for app state management.
+➮ Whereas for the back-end services, I completely rely on RESTful API, Firebase.
+➮ Depending on the project requirement, I use `shared_preferences`, `sqflite` or `hive` for local data storage.
+
+☞ Connect with me:(https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ariba1039/)
+☞ Hire me for your next project: aribahussain431@gmail.com
+🙋‍♂️ About Me
+
+
+🔭 : I’m currently searching for new Projects
+
+🌱 : I’m currently learning Flutter,Figma
+
+👯 : I want to contribute as Flutter Developer
+
+👨‍💻 : Few of my projects are available at My GitHub
+
+📫 : How to reach me aribahussain431@gmail.com
+
+⚡ : Fun fact I love TO Google flutter related material. 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ariba1039#1819) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ariba1039/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@aribadev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https:/twitter.com/ariba_hussain10) 
 
