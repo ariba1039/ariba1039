@@ -4,8 +4,8 @@
 ➮ Whereas for the back-end services, I completely rely on RESTful API, Firebase.
 ➮ Depending on the project requirement, I use `shared_preferences`, `sqflite` or `hive` for local data storage.
 
-☞ Connect with me:(https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ariba1039/)
-☞ Hire me for your next project: aribahussain431@gmail.com
+☞ Connect with me: 👉 https://www.linkedin.com/in/ariba1039/ 
+☞ Hire me for your next project:  👉aribahussain431@gmail.com
 🙋‍♂️ About Me
 
 
