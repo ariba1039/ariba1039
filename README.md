@@ -1,16 +1,16 @@
 Hi 👋,
 
-I'm Ariba hussain 'm a Software Engineer from PAKISTAN 
-➮ In addition to that, I use Provider, for app state management.
+I'm Ariba hussain , a Software Engineer from PAKISTAN 
+I use Provider, for app state management.
 
-➮ Depending on the project requirement, I use `shared_preferences`, `sqflite` or `hive` for local data storage.
+Depending on the project requirement, I use `shared_preferences`, `sqflite` or `hive` for local data storage.
 
 ☞ Connect with me: 👉 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ariba1039/)
 ☞ Hire me for your next project:  👉aribahussain431@gmail.com
  
  
  
- ## 🙋‍♂️ About Me
+ # 🙋‍♂️ About Me
 
 
 🔭 : I’m currently searching for new Projects
