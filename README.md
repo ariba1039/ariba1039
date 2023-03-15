@@ -1,6 +1,6 @@
 
 'm a Software Engineer from PAKISTAN 
-➮ In addition to that, I use Provider, or BLoC package for app state management.
+➮ In addition to that, I use Provider, for app state management.
 ➮ Whereas for the back-end services, I completely rely on RESTful API, Firebase.
 ➮ Depending on the project requirement, I use `shared_preferences`, `sqflite` or `hive` for local data storage.
 
