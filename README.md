@@ -23,7 +23,7 @@ Depending on the project requirement, I use `shared_preferences`, `sqflite` or `
 
 📫 : How to reach me aribahussain431@gmail.com
 
-⚡ : Fun fact I love TO Google flutter related material. 
+⚡ : Fun fact I love to Google flutter related material. 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ariba1039#1819) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ariba1039/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@aribadev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https:/twitter.com/ariba_hussain10) 
 
