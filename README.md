@@ -1,6 +1,6 @@
   Hi 👋,
 
-I'm Ariba hussain , a passionate Software Developer from Germany.
+I'm Ariba hussain , a passionate Software Developer 
 I use Provider, for app state management.
 
 Depending on the project requirement, I use `shared_preferences`, or `hive` for local data storage.
