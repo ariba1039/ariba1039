@@ -21,7 +21,7 @@ Depending on the project requirement, I use `shared_preferences`, or `hive` for 
 
 👨‍💻 : Few of my projects are available at My GitHub
 
-📫 : How to reach me aribahussain431@gmail.com
+📫 : How to reach me on my linkedin
 
 ⚡ : Fun fact I love to Google flutter related material. 
 ## 🌐 Socials:
