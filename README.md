@@ -6,7 +6,7 @@ I use Provider, for app state management.
 Depending on the project requirement, I use `shared_preferences`, or `hive` for local data storage.
 
 ☞ Connect with me: 👉 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ariba1039/)
-☞ Hire me for your next project:  👉aribahussain431@gmail.com
+☞ Hire me for your next project
  
  
  
