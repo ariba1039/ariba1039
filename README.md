@@ -1,27 +1,16 @@
 **Hi 👋** ,
+Hey! I'm Ariba :)
+My main focus is developing mobile apps for clients using Flutter 💙
+And looking forward to learn more about backend development 🌐
+I love sharing my experience and knowledge via articles 📝
+I’m currently learning Flutter,Figma
+I'm a Flutterista 💜
+Bunny Search is a project that I co-founded and developed 🐰🔍
+Talk to me on Twitter @ariba_hussain10 🐦
 
-I'm Ariba hussain , a passionate Software Developer 
-I use Provider, for app state management.
-
-Depending on the project requirement, I use `shared_preferences`, or `hive` for local data storage.
-
-☞ Connect with me: 👉 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ariba1039/)
+☞ Connect with me: 👉(https://linkedin.com/in/https://www.linkedin.com/in/ariba1039/)
 ☞ Hire me for your next project
- 
- 
- 
  # 🙋‍♂️ About Me
-
-
-🔭 : I’m currently searching for new Projects
-
-🌱 : I’m currently learning Flutter,Figma
-
-👯 : I want to contribute as Flutter Developer
-
-👨‍💻 : Few of my projects are available at My GitHub
-
-📫 : How to reach me on my linkedin
 
 ⚡ : Fun fact I love to Google flutter related material. 
 ## 🌐 Socials:
