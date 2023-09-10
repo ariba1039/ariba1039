@@ -5,7 +5,7 @@ And looking forward to learn more about backend development 🌐
 I love sharing my experience and knowledge via articles 📝
 I’m currently learning Flutter,Figma
 I'm a Flutterista 💜
-Bunny Search is a project that I co-founded and developed 🐰🔍
+
 Talk to me on Twitter @ariba_hussain10 🐦
 
 ☞ Connect with me: 👉(https://linkedin.com/in/https://www.linkedin.com/in/ariba1039/)
