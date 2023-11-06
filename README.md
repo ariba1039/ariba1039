@@ -10,7 +10,7 @@ Talk to me on Twitter @ariba_hussain10 🐦
 
 ☞ Connect with me: 👉(https://linkedin.com/in/https://www.linkedin.com/in/ariba1039/)
 ☞ Hire me for your next project
- # 🙋‍♂️ About Me
+ # About Me
 
 ⚡ : Fun fact I love to Google flutter related material. 
 ## 🌐 Socials:
