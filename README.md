@@ -1,5 +1,5 @@
 # 💫 About Me:
-
+<p align="center"><img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDlwNHFrcXFpYXM5OWRsc3l4NzlwMGliZHZjbm1sZjRtdmpkZmY0NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/E89xxATM4iZoPdr6Tb/giphy.gif" alt="mujtabacodes" /></p>
 Hi! I'm Ariba, a flutter developer, and a UI designer. I have developed a number of multi-platform apps for my clients using Google's Flutter development and Figma. Apart from that, I have completed my bachelor's degree of four years in Software engineering, which I rigorously apply in building quality apps and designs and now I'm gladly available on LinkedIn for my services and looking forward to working with you!<br><br>👉Hit me up for a free consultation or any other queries.
 
 
