@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi! I'm Ariba, a flutter developer, and a UI designer. I have developed a number of multi-platform apps for my clients using Google's Flutter development and Figma. Apart from that, I have completed my bachelor's degree of four years in Software engineering, which I rigorously apply in building quality apps and designs and now I'm gladly available on LinkedIn for my services and looking forward to working with you!<br><br>👉Hit me up for a free consultation or any other queries.
-
+<p align="center"><img align="center" src="https://media0.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif?cid=ecf05e47smrczov1mdgwlsn80gf8up6dgma2m3vhzrc2yqzv&rid=giphy.gif&ct=g" alt="ariba1039" /></p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ariba.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ariba1039) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@aribadev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ariba_hussain10) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ariba.dev10) 
