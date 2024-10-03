@@ -1,5 +1,5 @@
 # 💫 About Me:
-**<p align="center"><img align="center" src="https://media0.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif?cid=ecf05e47smrczov1mdgwlsn80gf8up6dgma2m3vhzrc2yqzv&rid=giphy.gif&ct=g" alt="ariba1039" /></p>**
+
 Hi! I'm Ariba, a flutter developer, and a UI designer. I have developed a number of multi-platform apps for my clients using Google's Flutter development and Figma. Apart from that, I have completed my bachelor's degree of four years in Software engineering, which I rigorously apply in building quality apps and designs and now I'm gladly available on LinkedIn for my services and looking forward to working with you!<br><br>👉Hit me up for a free consultation or any other queries.
 
 
@@ -18,6 +18,6 @@ Hi! I'm Ariba, a flutter developer, and a UI designer. I have developed a number
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/ariba1039) 
-
+**<p align="center"><img align="center" src="https://media0.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif?cid=ecf05e47smrczov1mdgwlsn80gf8up6dgma2m3vhzrc2yqzv&rid=giphy.gif&ct=g" alt="ariba1039" /></p>**
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
