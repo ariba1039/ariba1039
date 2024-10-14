@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
- <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDlwNHFrcXFpYXM5OWRsc3l4NzlwMGliZHZjbm1sZjRtdmpkZmY0NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/E89xxATM4iZoPdr6Tb/giphy.gif" alt="mujtabacodes" />
+ <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDlwNHFrcXFpYXM5OWRsc3l4NzlwMGliZHZjbm1sZjRtdmpkZmY0NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/E89xxATM4iZoPdr6Tb/giphy.gif" alt="ariba1039" />
 </p>
 
 
@@ -26,6 +26,7 @@
  <a href="https://x.com/ariba_hussain10">
  <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" />
  </a>
+ 
  <a href="https://www.youtube.com/@ariba.dev10">
  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube" />
  </a>
