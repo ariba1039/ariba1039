@@ -1,24 +1,58 @@
-# 💫 About Me:
+
 <p align="center"><img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDlwNHFrcXFpYXM5OWRsc3l4NzlwMGliZHZjbm1sZjRtdmpkZmY0NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/E89xxATM4iZoPdr6Tb/giphy.gif" alt="mujtabacodes" /></p>
-Hi! I'm Ariba, a flutter developer, and a UI designer. I have developed a number of multi-platform apps for my clients using Google's Flutter development and Figma. Apart from that, I have completed my bachelor's degree of four years in Software engineering, which I rigorously apply in building quality apps and designs and now I'm gladly available on LinkedIn for my services and looking forward to working with you!<br><br>👉Hit me up for a free consultation or any other queries.
+<h1 align="center">
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Ariba ;+Software Engineer  ;A+Mobile+Application+Developer+📱;+Flutter+Expert ;+Multi-platform+App+Developer;" />
+</h1>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ariba.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ariba1039) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@aribadev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ariba_hussain10) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ariba.dev10) 
-
-# 💻 Tech Stack:
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
- # 📊 GitHub Stats:
- <p align="center">
-![](https://github-readme-stats.vercel.app/api?username=ariba1039&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ariba1039&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ariba1039&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+I've developed a range of high-quality apps using <strong>Flutter</strong>, providing seamless user experiences and clean, beautiful designs with <strong>Figma</strong>. My background in Software Engineering gives me the foundation to create scalable, efficient, and visually engaging apps across platforms.
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=ariba1039&icon=0&color=1)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/ariba1039) 
+
+ <h2 align="center">🌐 Socials  ️
+<div align="center"> <br>
+
+  <a href="https://instagram.com/ariba.dev">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://linkedin.com/in/ariba1039">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://medium.com/@aribadev">
+    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://x.com/ariba_hussain10">
+    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" />
+  </a>
+  <a href="https://www.youtube.com/@ariba.dev10">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube" />
+  </a>
+</div>
+
+
+  <h2 align="center">️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,typescript,html,css,
+nodejs,firebase,supabase,appwrite" />
+    <img src="https://skillicons.dev/icons?i=git,github,mysql,mongodb,aws,java,javascript,postman,figma,react,xd" /><br>
+     
+  
+
+<h2 align="center"> Github Stats and Streaks 📊🔥</h2>
+<br>
+<div align=center>
+ <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ariba1039&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+ <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=ariba1039&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+ <br/>
+ <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ariba1039&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div><h2 align="center"> Dart makes my heart Flutter 💜 ☕️ </h2>
+<br/>
+<div align="center">
+  
 **<p align="center"><img align="center" src="https://media0.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif?cid=ecf05e47smrczov1mdgwlsn80gf8up6dgma2m3vhzrc2yqzv&rid=giphy.gif&ct=g" alt="ariba1039" /></p>**
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
