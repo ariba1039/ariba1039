@@ -9,7 +9,7 @@
 
 
 <p align="center">
- I've developed a range of high-quality apps using <strong>Flutter</strong>, providing seamless user experiences and clean, beautiful designs with <strong>Figma</strong>. My background in Software Engineering gives me the foundation to create scalable, efficient, and visually engaging apps across platforms.
+ I've developed a range of high-quality apps using <strong>Flutter</strong>, providing seamless user experiences and clean, beautiful UI interfaces with <strong>Figma</strong>. My background in Software Engineering gives me the foundation to create scalable, efficient, and visually engaging apps across platforms.
 </p>
 
 <h2 align="center">🌐 Socials ️</h2>
