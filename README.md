@@ -15,9 +15,7 @@
 <h2 align="center">🌐 Socials ️</h2>
 
 <div align="center">
- <img src="https://skillicons.dev/icons?i=Instagram,MEDIUM,LinkedIn,X,Youtube alt="Skills" />
- 
-</div>
+
 <div align="center"><br>
  <a href="https://instagram.com/ariba.dev">
  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
