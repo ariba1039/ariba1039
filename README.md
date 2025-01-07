@@ -36,6 +36,70 @@
 </div>
 
 <h2 align="center">️ Languages-Frameworks-Tools ⚒️</h2>
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=Flutter" width="45" height="45" alt="Futter" />
+      <br>Flutter
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=dart" width="45" height="45" alt="dart" />
+      <br>Dart
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
+      <br>React
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="Firebase" />
+      <br>Firebase
+    </td>
+  
+   
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
+      <br>Javascript
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
+      <br>Typescript
+    </td>
+    <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="48" height="48" />
+      <br>AWS
+    </td>
+
+     
+               
+  <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="48" height="48" />
+      <br>AWS
+    </td>    
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
+      <br>MySQL
+    </td>
+    
+    
+  </tr>
+ 
+</table>
+<br/>
+
+
+
+
+
+
+
+
+
 <br/>
 <div align="center">
  <img src="https://skillicons.dev/icons?i=flutter,dart,typescript,html,css,nodejs,firebase,supabase,appwrite" alt="Skills" />
