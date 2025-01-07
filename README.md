@@ -39,7 +39,7 @@
 <table align="center">
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=Flutter" width="45" height="45" alt="Futter" />
+      <img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Futter" />
       <br>Flutter
     </td>
     <td align="center" width="90">
