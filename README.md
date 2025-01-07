@@ -58,6 +58,10 @@
       <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman" />
       <br>Postman
     </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
+      <br>Git
+    </td>
    
   </tr>
   <tr>
@@ -69,10 +73,7 @@
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
       <br>Typescript
     </td>
-    <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/figma-icon.svg" alt="icon" width="48" height="48" />
-      <br>Figma
-    </td>
+    
 
      
                
