@@ -136,9 +136,7 @@
 
 <div align='center' width='100%'>
   <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariba1039&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
-  <a width='50%' href="https://github.com/ariba1039?tab=achievements">
-    <img src="https://github-profile-trophy.vercel.app/?username=ariba1039&theme=onestar&no-frame=true&column=3&row=2"  height="250px" alt="@CryptoNinja's trophy stats"/>
-  </a>
+  
 </div>
 <h2 align="center"> Dart makes my heart Flutter 💜 ☕️</h2>
 <br/>
