@@ -54,7 +54,10 @@
       <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="Firebase" />
       <br>Firebase
     </td>
-  
+  <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman" />
+      <br>Postman
+    </td>
    
   </tr>
   <tr>
@@ -67,8 +70,8 @@
       <br>Typescript
     </td>
     <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="48" height="48" />
-      <br>AWS
+        <img src="https://techstack-generator.vercel.app/figma-icon.svg" alt="icon" width="48" height="48" />
+      <br>Figma
     </td>
 
      
