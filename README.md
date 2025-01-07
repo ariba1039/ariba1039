@@ -66,6 +66,10 @@
       <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma" />
       <br>Figma
     </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java" />
+      <br>Java
+    </td>
    
   </tr>
   <tr>
@@ -113,16 +117,6 @@
 
 
 
-
-
-
-
-
-<br/>
-<div align="center">
- <img src="https://skillicons.dev/icons?i=flutter,dart,typescript,html,css,nodejs,firebase,supabase,appwrite" alt="Skills" />
- <img src="https://skillicons.dev/icons?i=git,github,mysql,mongodb,aws,java,javascript,postman,figma,react,xd" alt="Tools" />
-</div>
 
 <h2 align="center">Github Stats and Streaks 📊🔥</h2>
 <br>
