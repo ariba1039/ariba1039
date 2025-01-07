@@ -62,6 +62,10 @@
       <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
       <br>Git
     </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma" />
+      <br>Figma
+    </td>
    
   </tr>
   <tr>
@@ -73,8 +77,14 @@
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
       <br>Typescript
     </td>
-    
-
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=xd" width="45" height="45" alt="adobexd" />
+      <br>Adobe XD
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=appwrite" width="45" height="45" alt="appwrite" />
+      <br>App Write
+    </td>
      
                
   <td align="center" width="90">
