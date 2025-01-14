@@ -1,8 +1,9 @@
 <h1 align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Ariba;Software+Engineer;Mobile+Application+Developer+📱;Flutter+Expert;Multi Platform+App+Developer ;" alt="Typing SVG" />
-</h1>
 
+
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Ariba;Software+Engineer;Mobile+Application+Developer+📱;Flutter+Expert;Multi-platform+App+Developer;" alt="Typing SVG" />
 <p align="center">
+ 
  <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDlwNHFrcXFpYXM5OWRsc3l4NzlwMGliZHZjbm1sZjRtdmpkZmY0NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/E89xxATM4iZoPdr6Tb/giphy.gif" alt="ariba1039" />
 </p>
 
